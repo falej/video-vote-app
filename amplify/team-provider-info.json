@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "videovoteapp-dev-20190524152640-authRole",
+            "UnauthRoleArn": "arn:aws:iam::466886189766:role/videovoteapp-dev-20190524152640-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::466886189766:role/videovoteapp-dev-20190524152640-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "videovoteapp-dev-20190524152640-deployment",
+            "UnauthRoleName": "videovoteapp-dev-20190524152640-unauthRole",
+            "StackName": "videovoteapp-dev-20190524152640",
+            "StackId": "arn:aws:cloudformation:us-east-1:466886189766:stack/videovoteapp-dev-20190524152640/3dac5630-7e62-11e9-8c88-0e1ffe4de6a4"
+        }
+    }
+}
